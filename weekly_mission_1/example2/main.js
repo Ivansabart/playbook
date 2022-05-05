@@ -1,0 +1,9 @@
+// ejecutar el siguiente comando en la terminal:
+// node main.js
+
+// node main.js
+
+const logger = require('./logger')
+
+logger.info('This is an informational message')
+logger.verbose('This is a verbose message')
